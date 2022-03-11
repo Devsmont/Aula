@@ -1,0 +1,7 @@
+git init (inicializa um repositório na pasta aberta(atenção na pasta))
+
+git config --global user.name "KazamiHaru" (Registra seu nome)
+
+git config --global user.email "davimonteirodossantos@hotmail.com" (registra om seu e-mail)
+
+git remote add origin https://github.com/KazamiHaru/Aula.git
